@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**Languages**
+### <font color="#00ADD8">Languages</font>
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**Data & Messaging**
+### <font color="#4169E1">Data & Messaging</font>
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -23,7 +23,7 @@
   <!-- <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> -->
 </p>
 
-**Infrastructure**
+### <font color="#2496ED">Infrastructure</font>
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -33,7 +33,7 @@
   <!-- <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> -->
 </p>
 
-**Networking**
+### <font color="#24A1C1">Networking</font>
 
 <p>
   <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
@@ -41,7 +41,7 @@
   <!-- <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> -->
 </p>
 
-**Systems**
+### <font color="#FCC624">Systems</font>
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/GNU%20Make-427819?style=for-the-badge&logo=gnu&logoColor=white" />
 </p>
 
-**CI/CD & VCS**
+### <font color="#F05032">CI/CD & VCS</font>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
